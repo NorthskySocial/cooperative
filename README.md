@@ -9,3 +9,6 @@ Northsky Social Cooperative is a group of passionate web developers and communit
 ### Donate and Volunteer here:
 - https://northskysocial.com/profile/products
 - https://northskysocial.com/volunteer
+
+### Formation Documents: 
+Check the Formation Documents folder for our Certified Memorandum and Rules.
